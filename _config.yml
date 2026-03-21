@@ -17,8 +17,8 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Angst og Bange aps"
+description: "Snedker net"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://magnusboegelund.github.io
 logo: # path of site logo, e.g. "/images/logo.png"
