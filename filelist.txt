@@ -1,0 +1,14 @@
+.github
+docs
+example
+.editorconfig
+.gitattributes
+banner.js
+CHANGELOG.md
+Gemfile
+jekyll-theme-so-simple.gemspec
+package.json
+Rakefile
+README.md
+README-OLD.md
+screenshot.png
