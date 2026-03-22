@@ -17,11 +17,13 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "Angst og Bange aps"
-description: "Snedker net"
+title: "Velkommen til bøgelund bygningssnedkeri"
+repository: magnusboegelund/magnusboegelund.github.io
+logo: "/assets/images/2026_02_10-Render_HQ_Logo+Navn_Transparent.png"
+description: "v. Magnus Bøgelund"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://magnusboegelund.github.io
-logo: # path of site logo, e.g. "/images/logo.png"
+#logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
