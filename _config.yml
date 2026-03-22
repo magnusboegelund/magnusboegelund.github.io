@@ -17,7 +17,7 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
-#title: "Velkommen til bøgelund bygningssnedkeri"
+title: " "
 repository: magnusboegelund/magnusboegelund.github.io
 logo: "/assets/images/2026_02_10-Render_HQ_Logo+Navn_Transparent.png"
 description: "v. Magnus Bøgelund"
